@@ -3,4 +3,6 @@ Companion website to the paper "Similarity of Nearest-Neighbor Query Results in 
 
 ## [Other similarity metrics](./metrics)
 
+## [Spaces](./spaces)
+
 ## [Projections](./projections)

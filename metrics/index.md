@@ -11,7 +11,7 @@
 
 ## Spearman index
 
-```
+```python
 def calculate_idx(items_x, items_all):
 	return [index(item, items_x) if item in items_x else len(items_x) for item in items_all]
 
