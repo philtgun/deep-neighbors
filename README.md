@@ -3,6 +3,6 @@ Companion website to the paper "Similarity of Nearest-Neighbor Query Results in 
 
 ## [Other similarity metrics](./metrics)
 
-## [Spaces](./spaces)
+## Spaces: see as a [page](./spaces) or a [table](./spaces/table) 
 
-## [Projections](./projections)
+## Projections: see as a [page](./projections) or a [table](./projections/table) 
