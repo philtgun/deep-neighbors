@@ -1,4 +1,4 @@
-# Projection experiment: more figures
+# Projections: more figures
 
 ## Euclidean similarity, small dataset (presented in the paper)
 ![Similarity matrix](euclidean-small.png)

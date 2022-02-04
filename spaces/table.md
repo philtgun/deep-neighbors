@@ -1,4 +1,4 @@
-# Projection experiment: more figures
+# Latent spaces: more figures
 
 | Distance \ Dataset | Small | Large |
 | --- | --- | --- | 

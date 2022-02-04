@@ -1,4 +1,4 @@
-# Other metrics
+# Additional metrics
 
 ## S_n, introduced in the paper
 

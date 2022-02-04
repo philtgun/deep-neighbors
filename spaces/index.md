@@ -1,4 +1,4 @@
-# Latent spaces experiment: more figures
+# Latent spaces: more figures
 
 ## Euclidean similarity, small dataset 
 ![Similarity matrix](euclidean-small.png)

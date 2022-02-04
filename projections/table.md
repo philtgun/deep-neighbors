@@ -1,4 +1,4 @@
-# Projection experiment: more figures
+# Projections: more figures
 
 | Distance \ Dataset | Small | Large |
 | --- | --- | --- | 
